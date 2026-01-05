@@ -1,3 +1,0 @@
-# Test MD
-
-Hello GitHub!
